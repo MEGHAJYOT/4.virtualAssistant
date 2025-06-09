@@ -1,21 +1,26 @@
 {
   "name": "virtualassistant",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A virtual assistant project.",
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Virtualcode-yt/4.virtualAssistant.git"
+    "url": "git+https://github.com/MEGHAJYOTI/4.virtualAssistant.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Virtualcode-yt/4.virtualAssistant/issues"
+    "url": "https://github.com/MEGHAJYOTI/4.virtualAssistant/issues"
   },
-  "homepage": "https://github.com/Virtualcode-yt/4.virtualAssistant#readme"
+  "homepage": "https://github.com/MEGHAJYOTI/4.virtualAssistant#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
 }
